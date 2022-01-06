@@ -22,6 +22,31 @@ We then use the `route()` decorator to tell Flask what URL should trigger our fu
 
 The function returns the message we want to display in the user’s browser. The default content type is HTML, so HTML in the string will be rendered by the browser.
 
+Ideas on enhancements:
+#Add to list
+#Remove from list
+#Remove multiple
+#Visually check off items
+#Login screen
+#Important stuff indicator
+#Add multiple things
+#Notes section for the task
+#View page for list
+#Edit page for editing everything
+#Loading indicator
+#Give it some design flair
+#Color code list entries
+#Sorting
+#Date field - prevent procrastination
+#Prevent duplicates
+#Recurring events
+#Drag and drop list items
+#Time estimation field
+#Reminders
+
+![image](https://user-images.githubusercontent.com/32689713/148437524-49ed9170-c625-407f-8d75-b065b7511b0c.png)
+
+
 To learn more, checkout the [official guide](https://flask.palletsprojects.com/en/2.0.x/quickstart/).
 
 Flask examples and tutorials
@@ -33,4 +58,4 @@ Flask examples and tutorials
 
 
 Methods for displaying form data and for styling flask applications
-<https://diyprojects.io/flask-bootstrap-html-interface-effortless-python-projects/#.YdMjTt9MFPY> 
+https://pythonprogramming.net/flask-bootstrap/
